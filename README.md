@@ -3,7 +3,6 @@
 - 🌱 C++
 - 💞️ affelchen
 - 📫 admin@cherry.work.gd
-- 😄 Pronouns: hhchen, cherry
 - ⚡ Fun fact: Im acctualy only 10 Years old
 
 <!---
