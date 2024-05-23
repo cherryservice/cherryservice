@@ -3,7 +3,6 @@
 - 🌱 C++
 - 💞️ affelchen
 - 📫 admin@cherry.work.gd
-- ⚡ Fun fact: Im acctualy only 10 Years old
 
 <!---
 cherryservice/cherryservice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
